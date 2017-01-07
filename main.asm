@@ -5,8 +5,7 @@
 #  http://galera.ii.pw.edu.pl/~zsz/ecoar/ecoar_MIPS_projects_2016-2.pdf 	#
 #  based on: https://en.wikipedia.org/wiki/BMP_file_format			#
 #  										#
-#  Number of comments is excessive, but they are only there because  	#
-#  it is a university project.  						#
+#  Number of comments is excessive, for educational purposes. 			#
 #										#
 #################################################################################
 
