@@ -1,10 +1,10 @@
 #################################################################################
 #										#
-#  Ecoar L3, Author: Maciej Tutak 					#
+#  Ecoar L3, Author: Maciej Tutak 						#
 #  Task: Determine the shape on the input. 3.7 SET 3				#
-#  http://galera.ii.pw.edu.pl/~zsz/ecoar/ecoar_MIPS_projects_2016-2.pdf #
+#  http://galera.ii.pw.edu.pl/~zsz/ecoar/ecoar_MIPS_projects_2016-2.pdf 	#
 #  based on: https://en.wikipedia.org/wiki/BMP_file_format			#
-#  											#
+#  										#
 #  Number of comments is excessive, but they are only there because  	#
 #  it is a university project.  						#
 #										#
